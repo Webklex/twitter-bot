@@ -1,0 +1,36 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Twitter bot Beispiel</title>
+        <link>http://www.webkklex.com</link>
+        <description>
+            Beispiel Beschreibung für den Bot
+        </description>
+        <pubDate>Sun, 23 Jun 2013 05:47:23 +0200</pubDate>
+        <lastBuildDate>Sun, 23 Jun 2013 05:47:23 +0200</lastBuildDate>
+        <image>
+            <title>Twitter bot Beispiel</title>
+            <link>http://www.webklex.com</link>
+            <url>http://www.webkklex.com</url>
+        </image>
+        <item>
+            <title>
+                Beispiel -beispiel1 test test
+            </title>
+            <link>
+                http://www.webkklex.com
+            </link>
+            <description>
+                Lirum larum lupsum... ja das ist alles unwichtig für uns
+            </description>
+            <pubDate>Mon, 10 Jun 2013 17:02:00 +0200</pubDate>
+            <guid>
+                http://www.webklex.com
+            </guid>
+            <content:encoded>
+                <![CDATA[
+                    Lirum larum lupsum... ja das ist alles unwichtig für uns
+                ]]>
+            </content:encoded>
+        </item>
+    </channel>
+</rss>
