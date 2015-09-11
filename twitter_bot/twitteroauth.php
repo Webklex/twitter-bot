@@ -19,7 +19,7 @@ class TwitterOAuth {
   public $url;
   /* Set up the API root URL. */
   //UMGESTELLT AUF NEUE VERSION - ALTE /1.1/
-  public $host = "https://api.twitter.com/1/";
+  public $host = "https://api.twitter.com/1.1/";
   /* Set timeout default. */
   public $timeout = 30;
   /* Set connect timeout. */
